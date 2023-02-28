@@ -7,8 +7,7 @@
 6. Demo App - Adding a chart
 7. Adding Dynamic Styles
 8. Wrapup & next steps
-
-
+`````````````````````````````````````````````````````````````1
 #### Rendering lists of data:
 `{props.items.map()}`
 * map() - creates a new array based on another array, and that transforms every element in that original array.
